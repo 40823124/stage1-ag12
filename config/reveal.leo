@@ -212,9 +212,9 @@ vertical: body pane on the botton</t>
     &lt;a href="stage1-ag12"&gt;
         
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;Stage1-ag12&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823120.github.io/cd2021/"&gt;40823120&lt;/a&gt; and &lt;a href="https://40823124.github.io/cd2021/"&gt;40823124&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
