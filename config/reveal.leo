@@ -224,8 +224,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;W2進度&lt;/h2&gt;
     &lt;p&gt; &lt;/p&gt;
-     @others
+     
 &lt;/section&gt;
+@others
 
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
