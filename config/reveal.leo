@@ -19,7 +19,9 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210318004020.1"><vh>slide 2-1</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -220,10 +222,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;W2進度&lt;/h2&gt;
+    &lt;p&gt; &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -648,6 +648,14 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318004020.1">&lt;section&gt;
+    &lt;h2&gt;分組討論&lt;/h2&gt;
+    &lt;p&gt;主題: 平面四桿機構
+設計動機:有些物品因擺放過高而無法取的，而想做一個升降梯幫助
+&lt;/p&gt;
+&lt;img src="https://40823120.github.io/CD2021/content/%E5%9C%96%E7%89%87%E5%8D%80.html"  style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
