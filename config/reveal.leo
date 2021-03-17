@@ -654,7 +654,7 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;主題: 平面四桿機構
 設計動機:有些物品因擺放過高而無法取的，而想做一個升降梯幫助
 &lt;/p&gt;
-&lt;img src="https://40823120.github.io/CD2021/content/%E5%9C%96%E7%89%87%E5%8D%80.html"  style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+&lt;img src="https://40823120.github.io/CD2021/content/圖片區.html"  style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
