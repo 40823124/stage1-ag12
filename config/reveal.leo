@@ -223,7 +223,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;W2進度&lt;/h2&gt;
-    &lt;p&gt; &lt;/p&gt;
+    
      
 &lt;/section&gt;
 @others
@@ -244,18 +244,12 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;W3進度&lt;/h2&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;主要元件&lt;/h2&gt;
+   &lt;img src="https://40823120.github.io/CD2021/images/1.jpg" with="600" heigh="400" alt="上底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/2.jpg" with="600" heigh="400" alt="下底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/3.jpg" with="600" heigh="400" alt="砲管"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
