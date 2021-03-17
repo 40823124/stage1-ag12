@@ -183,7 +183,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;CD2021ag12 
+    編寫by40823120and40823124&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -208,8 +209,8 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;a href="stage1-ag12"&gt;
+        
     &lt;/a&gt;
     &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
     &lt;p&gt;
