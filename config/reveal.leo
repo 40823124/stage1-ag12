@@ -26,6 +26,10 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210318020737.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210318021712.1"><vh>slide 3-5</vh></v>
+<v t="leo.20210318021822.1"><vh>slide 3-6</vh></v>
+<v t="leo.20210318021929.1"><vh>slide 3-7</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -249,16 +253,14 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;主要元件&lt;/h2&gt;
-   &lt;img src="https://40823120.github.io/CD2021/images/1.jpg" with="200" heigh="100" alt="上底座"&gt;&amp;emsp;&lt;img src="https://40823120.github.io/CD2021/images/2.jpg" with="200" heigh="100" alt="下底座"&gt;&amp;emsp;&lt;img src="https://40823120.github.io/CD2021/images/3.jpg" with="200" heigh="100" alt="砲管"&gt;
+   &lt;img src="https://40823120.github.io/CD2021/images/1.jpg" with="200" heigh="100" alt="上底座"&gt;&amp;emsp;&lt;img src="https://40823120.github.io/CD2021/images/2.jpg" with="200" heigh="100" alt="下底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/3.jpg" with="200" heigh="80" alt="砲管"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;h2&gt;古代坦克車車&lt;/h2&gt;
+    &lt;p&gt;本來是用很多的圓來設計，但夢想太美現實太殘酷，最後選擇簡易的古代坦克車車&lt;/p&gt;
     &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -652,6 +654,28 @@ console.log( '"customevent" has fired' );
 &lt;/p&gt;
 &lt;img src="https://40823120.github.io/CD2021/images/IMG_7387.GIF"  style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318020737.1">&lt;section&gt;
+    &lt;h2&gt;機構設計&lt;/h2&gt;
+    &lt;p&gt;因為要讓砲管能夠左右轉動，因此在連接處採用圓桿和鑽孔的連接方式&lt;p&gt;
+
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318021712.1">&lt;section&gt;
+   
+&lt;img src="https://40823120.github.io/CD2021/images/4.jpg" with="10" heigh="10" alt="上底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/5.jpg" with="10" heigh="10" alt="下底座"&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318021822.1">&lt;section&gt;
+    &lt;p&gt;因為要讓砲管能夠上下轉動，因此在連接處採用圓桿和鑽孔的連接方式&lt;p&gt;
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318021929.1">&lt;section&gt;
+   
+&lt;img src="https://40823120.github.io/CD2021/images/6.jpg" with="10" heigh="10" alt="上底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/7.jpg" with="10" heigh="10" alt="下底座"&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
