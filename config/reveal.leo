@@ -122,11 +122,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -150,7 +152,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -171,14 +174,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;a href="stage1-ag12"&gt;
         
@@ -223,12 +229,18 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;古代坦克車車&lt;/h2&gt;
     &lt;p&gt;本來是用很多的圓來設計，但夢想太美現實太殘酷，最後選擇簡易的古代坦克車車&lt;/p&gt;
     &lt;br&gt;
-
-&lt;/section&gt;</t>
+    
+    @others
+    &lt;p&gt;模擬動圖&lt;/p&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="200" heigh="100" alt="上底座"&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="200" heigh="100" alt="上底座"&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
     &lt;h2&gt;爆炸圖&lt;/h2&gt;
  &lt;img src="https://40823120.github.io/CD2021/images/9.jpg" with="10" heigh="10" alt="上底座"&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210318004020.1">&lt;section&gt;
     &lt;h2&gt;分組討論&lt;/h2&gt;
     &lt;p&gt;主題: 平面四桿機構
@@ -237,7 +249,8 @@ vertical: body pane on the botton</t>
 &lt;img src="https://40823120.github.io/CD2021/images/IMG_7387.GIF"  style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210318020737.1">&lt;section&gt;
     &lt;h2&gt;機構設計&lt;/h2&gt;
     &lt;p&gt;因為要讓砲管能夠左右轉動，因此在連接處採用圓桿和鑽孔的連接方式&lt;p&gt;
@@ -249,16 +262,19 @@ vertical: body pane on the botton</t>
    
 &lt;img src="https://40823120.github.io/CD2021/images/4.jpg" with="10" heigh="10" alt="上底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/5.jpg" with="10" heigh="10" alt="下底座"&gt;
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210318021822.1">&lt;section&gt;
     &lt;p&gt;因為要讓砲管能夠上下轉動，因此在連接處採用圓桿和鑽孔的連接方式&lt;p&gt;
 
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210318021929.1">&lt;section&gt;
    
 &lt;img src="https://40823120.github.io/CD2021/images/6.jpg" with="10" heigh="10" alt="上底座"&gt;&lt;img src="https://40823120.github.io/CD2021/images/7.jpg" with="10" heigh="10" alt="下底座"&gt;
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
