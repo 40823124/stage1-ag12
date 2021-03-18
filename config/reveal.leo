@@ -34,6 +34,7 @@
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20210318135811.1"><vh>slide6</vh></v>
 </v>
 </v>
 </v>
@@ -282,5 +283,8 @@ vertical: body pane on the botton</t>
      &lt;/section&gt;
      
      @others</t>
+<t tx="leo.20210318135811.1">&lt;section&gt;
+&lt;h2&gt;協同心得&lt;/h2&gt;
+&lt;p&gt;這次協同除了分工建模與程式模擬外，我們遇到最大的問題是分組倉儲的維護，在協同倉儲維護時時常遇到推送的分支跑掉導致另一端無法順利推送，後來發現問題出在默認的分支名稱跑掉，導致兩個倉儲的分支名稱不同，無法推送。&lt;/p&gt;</t>
 </tnodes>
 </leo_file>
