@@ -26,6 +26,7 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-2</vh></v>
 <v t="leo.20210318135413.1"><vh>slide3-2-2</vh></v>
+<v t="leo.20210318140421.1"><vh>slide3-2-3</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210318020737.1"><vh>slide 3-4</vh></v>
 <v t="leo.20210318021712.1"><vh>slide 3-5</vh></v>
@@ -240,6 +241,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;爆炸圖&lt;/h2&gt;
  &lt;img src="https://40823120.github.io/CD2021/images/9.jpg" with="10" heigh="10" alt="上底座"&gt;
 &lt;/section&gt;
+@others
 </t>
 <t tx="leo.20210318004020.1">&lt;section&gt;
     &lt;h2&gt;分組討論&lt;/h2&gt;
@@ -279,12 +281,16 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318135413.1">&lt;section&gt;
 &lt;p&gt;模擬動圖&lt;/p&gt;
      &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="100" heigh="50" alt="上底座"&gt;
-     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="100" heigh="50" alt="上底座"&gt;
+     
      &lt;/section&gt;
      
      @others</t>
 <t tx="leo.20210318135811.1">&lt;section&gt;
 &lt;h2&gt;協同心得&lt;/h2&gt;
 &lt;p&gt;這次協同除了分工建模與程式模擬外，我們遇到最大的問題是分組倉儲的維護，在協同倉儲維護時時常遇到推送的分支跑掉導致另一端無法順利推送，後來發現問題出在默認的分支名稱跑掉，導致兩個倉儲的分支名稱不同，無法推送。&lt;/p&gt;</t>
+<t tx="leo.20210318140421.1">&lt;section&gt;
+&lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="100" heigh="50" alt="上底座"&gt;
+&lt;/section&gt;
+@others</t>
 </tnodes>
 </leo_file>
