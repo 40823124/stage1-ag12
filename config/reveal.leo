@@ -296,9 +296,11 @@ vertical: body pane on the botton</t>
 &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="100" heigh="50" alt="上底座"&gt;
 &lt;/section&gt;
 @others</t>
-<t tx="leo.20210318141332.1">&lt;iframe frameborder="0" scrolling="no"
+<t tx="leo.20210318141332.1">&lt;section&gt;
+&lt;iframe frameborder="0" scrolling="no"
      width="640" height="480"
      src="https://drive.google.com/file/d/1v777dkaWtipr3uhJR_MoStCK7upgDVXb/view"&gt;
-&lt;/iframe&gt;</t>
+&lt;/iframe&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
