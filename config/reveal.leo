@@ -277,8 +277,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318135413.1">&lt;section&gt;
 &lt;p&gt;模擬動圖&lt;/p&gt;
-     &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="200" heigh="100" alt="上底座"&gt;
-     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="200" heigh="100" alt="上底座"&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="100" heigh="50" alt="上底座"&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="100" heigh="50" alt="上底座"&gt;
      &lt;/section&gt;
      
      @others</t>
