@@ -25,6 +25,7 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210318135413.1"><vh>slide3-2-2</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210318020737.1"><vh>slide 3-4</vh></v>
 <v t="leo.20210318021712.1"><vh>slide 3-5</vh></v>
@@ -231,9 +232,7 @@ vertical: body pane on the botton</t>
     &lt;br&gt;
     
     @others
-    &lt;p&gt;模擬動圖&lt;/p&gt;
-     &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="200" heigh="100" alt="上底座"&gt;
-     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="200" heigh="100" alt="上底座"&gt;
+    
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
@@ -276,5 +275,12 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318135413.1">&lt;section&gt;
+&lt;p&gt;模擬動圖&lt;/p&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3.gif" with="200" heigh="100" alt="上底座"&gt;
+     &lt;img src="https://40823124.github.io/cd2021/images/w3_2.gif" with="200" heigh="100" alt="上底座"&gt;
+     &lt;/section&gt;
+     
+     @others</t>
 </tnodes>
 </leo_file>
