@@ -299,7 +299,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318141332.1">&lt;section&gt;
 &lt;iframe frameborder="0" scrolling="no"
      width="640" height="480"
-     src="https://drive.google.com/file/d/1v777dkaWtipr3uhJR_MoStCK7upgDVXb/view"&gt;
+     src="https://drive.google.com/file/d/1v777dkaWtipr3uhJR_MoStCK7upgDVXb/preview"&gt;
 &lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
